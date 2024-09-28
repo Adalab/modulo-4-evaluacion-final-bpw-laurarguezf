@@ -33,7 +33,7 @@ Esta proyecto propociona una API para gestionar eventos, incluyendo creación, m
     ```bash
     npm start
 
-El servidor se iniciará en http://localhost:3000
+- El servidor se iniciará en http://localhost:3000
     
 ## Endpoints
 
