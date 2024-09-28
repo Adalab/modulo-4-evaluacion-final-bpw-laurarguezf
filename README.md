@@ -16,7 +16,7 @@ Esta proyecto propociona una API para gestionar eventos, incluyendo creación, m
 
 2. Instala las dependencias necesarias:
     ```bash
-    npm istall
+    npm install
 
 3. Importa las tablas necesarias en la base de datos MySQL utilizando el archivo SQL proporcionado.
     - En la carpeta bd, encontrarás el archivo events-manager.dump.sql
