@@ -53,6 +53,6 @@ Esta proyecto propociona una API para gestionar eventos, incluyendo creación, m
     - Descripción: Actualiza la información de un evento existente
 
 - Eliminar un evento:
-    URL: /events/:id
-    Método: DELETE
-    Descripción: Elimina un evento existente
+    - URL: /events/:id
+    - Método: DELETE
+    - Descripción: Elimina un evento existente
