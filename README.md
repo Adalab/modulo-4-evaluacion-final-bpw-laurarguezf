@@ -32,24 +32,25 @@ Esta proyecto propociona una API para gestionar eventos, incluyendo creación, m
 5. Inicia el servidor
     ```bash
     npm start
-    El servidor se iniciará en http://localhost:3000
+
+El servidor se iniciará en http://localhost:3000
     
 ## Endpoints
 
 - Obtener todos los eventos:
-    URL: /events
-    Método: GET
-    Descripción: Devuelve una lista de todos los eventos
+    - URL: /events
+    - Método: GET
+    - Descripción: Devuelve una lista de todos los eventos
 
 - Crear un nuevo evento:
-    URL: /events
-    Método: POST
-    Descripción: Crea un nuevo evento
+    - URL: /events
+    - Método: POST
+    - Descripción: Crea un nuevo evento
 
 - Actualizar un evento:
-    URL: /events/:id
-    Método: PUT
-    Descripción: Actualiza la información de un evento existente
+    - URL: /events/:id
+    - Método: PUT
+    - Descripción: Actualiza la información de un evento existente
 
 - Eliminar un evento:
     URL: /events/:id
